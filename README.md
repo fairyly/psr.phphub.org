@@ -6,3 +6,5 @@
     <img src="https://yousails.com/banners/brand.png" width=350>
   </a>
 </p>
+
+### PHP Standard Recommendations : php 开发规范
